@@ -95,9 +95,9 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 **Kaluri Himabindhu**
 
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/Hiomio)
-- LinkedIn: [@yourlinkedin](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
+
+- GitHub: [Hiomio](https://github.com/Hiomio)
+- LinkedIn: [kaluri-himabindhu](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
 
 ---
 
