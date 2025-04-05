@@ -1,6 +1,5 @@
-# Mobile App Interface
+# Replica of PopX
 
-![Project Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=Mobile+App+Interface)
 
 ## 📱 Project Overview
 
@@ -62,10 +61,7 @@ This project implements a pixel-perfect mobile application interface based on an
 src/
 ├── assets/       # Images, fonts, and other static files
 ├── components/   # Reusable React components
-├── pages/        # Application pages/screens
-├── contexts/     # React contexts for state management
-├── hooks/        # Custom React hooks
-├── utils/        # Utility functions
+├── pages/        # Application pages/screen
 ├── styles/       # Global styles and theme variables
 ├── App.js        # Main application component
 └── index.js      # Application entry point
